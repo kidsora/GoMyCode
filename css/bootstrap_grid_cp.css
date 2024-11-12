@@ -1,0 +1,45 @@
+body {
+    background-color: aliceblue;
+}
+.hero-section {
+    background-image:url(img/test.webp);
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+    margin: auto;
+    
+}
+.hero-div {
+    text-align: center;
+    padding: 25%;
+}
+.heading {
+    color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.hero-btn {
+    background-color: aliceblue;
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.titles {
+    padding: 10px;
+    color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.prices {
+    font-weight: bold;
+}
+.img2 {
+    width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
+footer {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center ;
+    font-size: larger;
+}
